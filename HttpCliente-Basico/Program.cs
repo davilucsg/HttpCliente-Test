@@ -16,11 +16,11 @@ namespace HttpCliente_Basico
                 watch.Restart();
                 RealizarChamadaComFabricaInstancia();
                 watch.Stop();
-                Console.WriteLine($"Tempo gasto : {watch.ElapsedMilliseconds}");
+                Console.WriteLine($"Tempo gasto : {watch.ElapsedMilliseconds} ms");
 
                 tempoMs += watch.ElapsedMilliseconds;
             }
-            Console.WriteLine($"Tempo total gasto: {tempoMs}");
+            Console.WriteLine($"Tempo total gasto: {tempoMs} ms");
             Console.ReadKey();
         }
 
