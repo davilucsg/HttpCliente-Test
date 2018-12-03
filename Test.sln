@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCliente-Basico", "HttpCliente-Basico\HttpCliente-Basico.csproj", "{FA65F6C0-C4F6-4444-8609-560995839112}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCliente-Test", "HttpCliente-Basico\HttpCliente-Test.csproj", "{FA65F6C0-C4F6-4444-8609-560995839112}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
